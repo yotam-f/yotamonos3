@@ -1,0 +1,297 @@
+
+
+body{
+    background-color:rgb(0 38 162 / 30%);
+}
+.titele{
+    margin-bottom: -15px;
+    text-align: center;
+    font-size: 300%;
+   
+}
+.t{
+    margin: auto;
+    height: 50em;
+    width: 70%;
+    background-color:white;
+    padding: 1%;
+    padding-bottom: 0%;    
+}
+.yo{
+    color: rgb(49, 166, 255);
+}
+.crgelCalim{
+    font-size: x-large;
+    
+}
+a{
+    margin: 1%;
+    color: rgba(64, 64, 64, 0.73);
+}
+.secendT{
+    margin: 0%;
+    text-align: center;
+    font-size:150% ;
+    height: 5%;
+}
+
+
+
+.hthbrot{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.hidosh{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.rhishat{
+    text-decoration: none;
+    padding: 0.5%;
+}
+
+
+
+.rhishat:hover{
+    background-color: rgb(43, 156, 226);
+    transition:  0.5s ease-in-out;
+    color: black;
+}
+.hidosh:hover{
+    background-color: rgb(43, 156, 226);
+    transition:  0.5s ease-in-out;
+    color: black;
+}
+
+.hthbrot:hover{
+    background-color: rgb(43, 156, 226);
+    transition:  0.5s ease-in-out;
+    color: black;
+}
+.TalAndI{
+    height: 45%; width: 45%;
+    display: block;
+    margin: auto;
+    margin-top: 15%;
+    margin-left: 18%;
+}
+.coteret{
+    font-size:  2.125rem;
+    position: absolute;
+    left: 60%;
+    top: 45%;
+}
+
+h2{
+    position: absolute;
+    top: 60%;
+    left: 64%;
+    font-size:  1.6rem;
+} 
+
+.pam{
+    text-decoration: underline #000000;
+}
+
+@media  (max-width: 1285.60px ) {
+    .coteret{
+        font-size: 1.7rem;
+        top: 42%;
+        left: 59%;
+}
+.TalAndI{
+    height: 41%; width: 41%;
+}
+a{
+    font-size: 20px;
+}
+.titele{
+    font-size: 250%;
+}
+
+h2{
+
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-size: 1.6rem;
+
+}
+
+
+
+
+}
+@media  (max-width: 1243px ) {
+    .coteret{
+        font-size: 1.7rem;
+        top: 42%;
+        left: 59%;
+}
+.TalAndI{
+    height: 37%; width: 41%;
+}
+a{
+    font-size: 20px;
+}
+.titele{
+    font-size: 250%;
+}
+
+h2{
+
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-size: 1.6rem;
+
+}
+}
+@media  (max-width: 1200px ) {
+    .coteret{
+        font-size: 1.7rem;
+        top: 42%;
+        left: 57%;
+}
+.TalAndI{
+    height: 37%; width: 41%;
+}
+a{
+    font-size: 20px;
+}
+.titele{
+    font-size: 250%;
+}
+h2{
+
+    position: absolute;
+    top: 60%;
+    left: 58%;
+    font-size: 1.6rem;
+
+}
+}
+
+
+@media  (max-width: 600px ) {
+    .coteret{
+        font-size: 1.5rem;
+        top: 30%;
+        left: 20%;
+}
+.TalAndI{
+    position: absolute;
+    height: 37%; width:  81%; 
+    right: 8%;
+    bottom: 6%;
+}
+a{
+    font-size: 20px;
+}
+h2{
+    position: absolute;
+    font-size: 1.3rem;
+    left: 28%;
+    top: 40%
+}
+.t{
+    width: 98%;
+}
+
+}
+
+
+
+
+
+@media  (max-width:370px ) {
+    .coteret{
+        font-size: 1.5rem;
+        top: 30%;
+        left: 15%;
+}
+.TalAndI{
+    position: absolute;
+    height: 35%; width:  81%; 
+    right: 8%;
+    bottom: 6%;
+}
+a{
+    font-size: 20px;
+}
+h2{
+    position: absolute;
+    font-size: 1.3rem;
+    left: 21%;
+    top: 40%
+}
+.t{
+    width: 98%;
+}
+
+}
+
+
+
+
+
+@media  (max-width:330px ) {
+    .coteret{
+        font-size: 1.5rem;
+        top: 30%;
+        left: 10%;
+}
+.TalAndI{
+    position: absolute;
+    height: 35%; width:  81%; 
+    right: 8%;
+    bottom: 6%;
+}
+a{
+    font-size: 20px;
+}
+h2{
+    position: absolute;
+    font-size: 1.3rem;
+    left: 17%;
+    top: 40%
+}
+.t{
+    width: 98%;
+}
+
+}
+
+@media  (max-width: 287px ) {
+    .coteret{
+        font-size: 1.35rem;
+        top: 30%;
+        left: 4%;
+}
+.TalAndI{
+    position: absolute;
+    height: 34%; width: 87%;
+    right: 8%;
+    bottom: 10%;
+}
+a{
+    font-size: 20px;
+}
+h2{
+    position: absolute;
+    font-size:  1.23rem;
+    left: 5%;
+    top: 40%
+}
+.t{
+    width: 98%;
+}
+
+.crgelCalim{
+    font-size: large;
+}
+
+}
+
+
+
